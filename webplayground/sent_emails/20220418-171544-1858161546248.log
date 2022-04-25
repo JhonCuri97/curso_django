@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: jhon@gmail.com
+Date: Mon, 18 Apr 2022 22:15:44 -0000
+Message-ID: 
+ <165032014475.21236.10688997277872903772@LAPTOP-LMJGC4AJ.hitronhub.home>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/NA/b436m8-8612c70817bfdf280d5faf0c1221adc9/
+
+Your username, in case you’ve forgotten: jhon.cu
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
